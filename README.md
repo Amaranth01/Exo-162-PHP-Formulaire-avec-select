@@ -1,7 +1,5 @@
 # Exo-162-PHP-Formulaire-avec-select
 
-
-
 Vous devez agrémenter votre code avec de l'HTML 5 valide (DOCTYPE, ....) 
 
 ##Exercice 1 
